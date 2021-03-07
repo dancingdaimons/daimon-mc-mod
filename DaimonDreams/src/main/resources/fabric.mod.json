@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "daidre",
+  "version": "${version}",
+
+  "name": "Daimon's Dreams",
+  "description": "im depressed",
+  "authors": [
+    "Daimons"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+
+  "license": "CC0-1.0",
+  "icon": "assets/daidre/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.daimons.daimondreams.Daimondreams"
+    ],
+    "client": [
+      "com.daimons.daimondreams.DaimondreamsClient"
+    ]
+  },
+  "mixins": [
+    "daidre.mixin.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "daidre:dead_block"
+  },
+  "result": "minecraft:dead_bush",
+  "count": 63,
+  "experience": 2,
+  "cookingtime": 20000
+}

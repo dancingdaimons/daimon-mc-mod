@@ -1,0 +1,27 @@
+{
+  "btsangery": {
+    "subtitle": "subtitles.daidre.tsangery",
+    "sounds": [
+      "daidre:btsangery"
+    ]
+  },
+  "btscave": {
+    "subtitle": "subtitles.daidre.btscave",
+    "sounds": [
+      "daidre:btscave"
+    ]
+  },
+  "btsmusic": {
+    "subtitle": "subtitles.daidre.btsmusic",
+    "sounds": [
+      "daidre:btsmusic"
+    ]
+  },
+  "btssummon": {
+    "subtitle": "subtitles.daidre.btssummon",
+    "sounds": [
+      "daidre:btssummon"
+    ]
+  }
+}
+
